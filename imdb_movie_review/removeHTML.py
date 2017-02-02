@@ -1,3 +1,6 @@
+# to run in the command line
+# first argument file name, second argument the output file name
+
 import pandas as pd
 from bs4 import BeautifulSoup
 import sys
